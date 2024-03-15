@@ -30,3 +30,43 @@ MarkDown 내용 정리
 * 아이템 1
 * 아이템 2
 
+<!-- Number List -->
+숫자 리스트 :
+
+1. 숫자 1
+2. 숫자 2
+3. 숫자 3
+
+<!--Link -->
+Click [My Git hub](https://github.com/JIHyeongJun/AI_Project)
+
+<!-- Image -->
+![image](주소)
+
+<!-- Table -->
+
+|Header|Description|other|
+|--:|:--|:--:|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+|Cell1|Cell2|Cell3|
+
+
+:-- 좌정렬
+--: 우정렬
+:--: 중앙 정렬
+
+<!-- Code -->
+
+debug console Sample `Debug.log("--")`
+
+```C#
+Debug.Log(Message)
+```
+
+<!-- TodoList -->
+- [x] #739
+- [ ] https://github.com
+- [ ] add
