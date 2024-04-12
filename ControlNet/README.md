@@ -19,6 +19,36 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 2806862934, Size: 1000x
 
 ![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/00025-1011914466.png?raw=true)
 
+---
+
 ## Pixel
 
 ![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/00005.png?raw=true)
+
+---
+
+## OpenPose
+
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Pose_In.png?raw=true)
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Pose_Out.png?raw=true)
+
+---
+
+## Seg
+
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Seg.png?raw=true)
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Seg%202.png?raw=true)
+
+---
+
+## Lora
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Lora_1%20(1).png?raw=true)
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Lora_1%20(2).png?raw=true)
+
+![image](https://github.com/JIHyeongJun/AI_Project/blob/main/ControlNet/OpenPose/Lora_1%20(3).png?raw=true)
